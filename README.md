@@ -9,7 +9,7 @@
 <p>
 Greetings, I'm Harley.
   <br>
-  I'm a Software Engineer living in the Netherlands and Korea 🇳🇱 🇰🇷
+  I'm a Software Engineer living in the Netherlands and Korea 🌷
   <br>
   Currently I'm working on my bachleor of applied science
   <br>
