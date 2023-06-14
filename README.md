@@ -36,7 +36,7 @@
 <br>
 
 📊 **Contributions;**
-[![Harleyknd1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harleyknd1&hide_border=true&theme=github-compact&custom_title=Contribution%20Graph)](https://github.com/Harleyknd1/github-readme-activity-graph)
+[![Harleyknd1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harleyknd1&hide_border=true&theme=github-compact&custom_title=Contribution%20Graph)](https://github.com/Harleyknd1/)
 
 <br>
 
