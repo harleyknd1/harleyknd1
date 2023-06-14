@@ -65,6 +65,7 @@ Greetings, I'm Harley.
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Dart" height="25" src="images/dart.png"></code>
+  <code><img title="Flutter" height="25" src="images/flutter.png"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
