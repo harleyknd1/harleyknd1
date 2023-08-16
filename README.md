@@ -41,17 +41,17 @@ Greetings, I'm Harley.
 
 </p>
 
-  [![forthebadge](https://github.com/BraveUX/for-the-badge/tree/master/src/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
-  [![forthebadge](https://github.com/BraveUX/for-the-badge/tree/master/src/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
-  [![forthebadge](https://github.com/BraveUX/for-the-badge/tree/master/src/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
-  [![forthebadge](https://github.com/BraveUX/for-the-badge/tree/master/src/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
-  [![forthebadge](https://github.com/BraveUX/for-the-badge/tree/master/src/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
+  [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+  [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+  [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+  [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
+  [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
   
-  [![forthebadge](https://github.com/BraveUX/for-the-badge/tree/master/src/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
-  [![forthebadge](https://github.com/BraveUX/for-the-badge/tree/master/src/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
-  [![forthebadge](https://github.com/BraveUX/for-the-badge/tree/master/src/images/badges/made-with-java.svg)](https://forthebadge.com)
-  [![forthebadge](https://github.com/BraveUX/for-the-badge/tree/master/src/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-  [![forthebadge](https://github.com/BraveUX/for-the-badge/tree/master/src/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+  [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
+  [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+  [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/made-with-java.svg)](https://forthebadge.com)
+  [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+  [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 
 <br>
 
